@@ -2,7 +2,7 @@
 widget: about
 active: false
 author: admin
-widget_id: RECENT-POSTS
+widget_id: authors
 headless: true
 weight: 20
 title: ""
